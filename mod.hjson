@@ -1,0 +1,10 @@
+//комментарии можно убрать
+
+displayName: "NameMod" //название:hhshsh
+name: "mod_id" //ID:78276637273
+description: "Description" //описание
+author: "Author" //автор
+version: "1.0" //версия
+dependencies: [ ] //зависимости
+minGameVersion: 158.3 //мин. версия игры
+hidden: false //скрытый
